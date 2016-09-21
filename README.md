@@ -16,9 +16,9 @@ Encrypted.cash is an improved version of "Zerocash" based on Bitcoin's protocol.
 What improvements?
 ------------------
 
-1) with periodic audits of coin supply.
+1) Periodic audits of coin supply
 
-2) NO Founders rewards (we remove the 10% "founders reward")
+2) No founders rewards! we remove the 10% founders reward
 
 3) Make anonymous transactions compulsory
 
