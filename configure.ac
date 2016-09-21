@@ -163,7 +163,7 @@ if test "x$enable_debug" = xyes; then
 fi 
 
 ## TODO: Remove these hard-coded paths and flags. They are here for the sake of
-##       compatibility with the legacy buildsystem.
+##       compatibility with the legacy buildsystem. -Moneytrigz
 ##
 if test "x$CXXFLAGS_overridden" = "xno"; then
   CXXFLAGS="$CXXFLAGS -Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter -Wno-self-assign"
