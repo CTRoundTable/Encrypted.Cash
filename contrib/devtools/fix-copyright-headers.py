@@ -3,7 +3,7 @@
 Run this script inside of src/ and it will look for all the files
 that were changed this year that still have the last year in the
 copyright headers, and it will fix the headers on that file using
-a perl regex one liner.
+a perl regex one liner
 
 For example: if it finds something like this and we're in 2014
 
