@@ -1,7 +1,7 @@
 Encrypted.Cash
 ==============
 
-https://Encrypted.cash/
+http://Encrypted.cash/
 
 Why Encrypted.Cash?
 -------------------
