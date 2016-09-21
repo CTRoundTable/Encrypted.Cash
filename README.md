@@ -9,11 +9,12 @@ Why Encrypted.Cash?
 Privacy (anonymous), Periodic audits, fair distribution, no founders reward
 
 What is Encrypted.cash?
---------------
+-----------------------
 
 Encrypted.cash is an improved version of "Zerocash" based on Bitcoin's protocol.
 
 What improvements?
+------------------
 
 1) with periodic audits of coin supply.
 
@@ -21,7 +22,7 @@ What improvements?
 
 3) Make anonymous transactions compulsory
 
-Encrypted.Cash intends to offer a far higher standard of privacy and anonymity through a sophisticiated "autodark feature" which preserves confidentiality of transactions.
+Encrypted.Cash intends to offer a far higher standard of privacy and anonymity through a sophisticiated "ZeroBlock feature" which preserves confidentiality of transactions.
 
 ** Encrypted.Cash is unfinished and highly experimental ** PLEASE Use at your own risk
 
