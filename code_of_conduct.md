@@ -41,12 +41,7 @@ is deemed necessary and appropriate to the circumstances. Maintainers are
 obligated to maintain confidentiality with regard to the reporter of an
 incident.
 
-You may send reports to [our Conduct email](mailto:bad@encrypted.cash).
-
-If you wish to contact specific maintainers directly, the following have made
-themselves available for conduct issues:
-
-- Moneytrigz
+You may send reports to (mailto:bad@encrypted.cash).
 
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
