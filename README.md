@@ -1,23 +1,24 @@
-Zcash
-=====
+Encrypted.Cash
+==============
 
-https://z.cash/
+https://Encrypted.cash/
 
-Where do I begin?
------------------
+Why Encrypted.Cash?
+-------------------
 
-We have a guide for joining the public testnet: https://github.com/zcash/zcash/wiki/Beta-Guide
+Privacy (anonymous), Periodic audits, fair distribution, no founders reward
 
-What is Zcash?
+What is Encrypted.cash?
 --------------
 
-Zcash is an implementation of the "Zerocash" protocol. Based on Bitcoin's code, it intends to
-offer a far higher standard of privacy and anonymity through a sophisticiated zero-knowledge
-proving scheme which preserves confidentiality of transaction metadata.
+Encrypted.cash is an improved version of "Zerocash" protocol Based on Bitcoin's code, 1) with periodic audits of coin supply.
+Encrypted.Cash intends to offer a far higher standard of privacy and anonymity through a sophisticiated "autodark feature" which preserves confidentiality of transactions.
+2) NO Founders rewards (we remove the 10% "founders reward")
+3) Make anonymous transactions compulsory
 
-**Zcash is unfinished and highly experimental.** Use at your own risk.
+** Encrypted.Cash is unfinished and highly experimental ** PLEASE Use at your own risk
 
-Participation in the Zcash project is subject to a [Code of Conduct](code_of_conduct.md).
+
 
 Security Warnings
 -----------------
@@ -28,6 +29,6 @@ See important security warnings in
 License
 -------
 
-Zcash is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Encrypted.Cash is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
