@@ -11,7 +11,9 @@ Privacy (anonymous), Periodic audits, fair distribution, no founders reward
 What is Encrypted.cash?
 --------------
 
-Encrypted.cash is an improved version of "Zerocash" protocol Based on Bitcoin's protocol code.
+Encrypted.cash is an improved version of "Zerocash" based on Bitcoin's protocol.
+
+What improvements?
 
 1) with periodic audits of coin supply.
 
